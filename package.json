@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "type": "module",
-  "scripts": {
-    "start-ui": "node server.js",
-    "start-api": "node index.js"
+"scripts": {
+    "start-api": "node index.js",
+    "start-ui": "node server.js"
   },
   "keywords": [],
   "author": "",
