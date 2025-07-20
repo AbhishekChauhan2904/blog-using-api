@@ -5,8 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start-ui": "node index.js",
-    "start-api": "node server.js"
+    "start-ui": "node server.js",
+    "start-api": "node index.js"
   },
   "keywords": [],
   "author": "",
